@@ -1,0 +1,8 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "fWJVek3AF_BaQpa2ijTsH"
+uri = "file://artifacts/manchester-auto-service/public/hero-bg.png"
+type = "image"
+title = "Garage workshop background"
